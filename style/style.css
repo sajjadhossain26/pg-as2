@@ -293,7 +293,7 @@ button:hover {
   text-align: center;
 }
 footer {
-  background-image: url(/assets/footer-bg.png);
+  background-image: url(../assets/footer-bg.png);
   padding: 100px 0px;
   background-position: center;
   background-repeat: no-repeat;
